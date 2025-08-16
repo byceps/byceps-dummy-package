@@ -6,7 +6,7 @@ authors = [
     { name = "Jochen Kupperschmidt", email = "homework@nwsnet.de" },
 ]
 description = "LAN party web platform"
-readme = "README.rst"
+readme = "README.md"
 license = { text = "Revised BSD License" }
 keywords = [ "lanparty" ]
 classifiers = [
