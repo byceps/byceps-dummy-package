@@ -7,7 +7,7 @@ authors = [
     { name = "Jochen Kupperschmidt", email = "homework@nwsnet.de" },
 ]
 license = { text = "Revised BSD License" }
-keywords = [ "lanparty" ]
+keywords = ["lanparty"]
 classifiers = [
     "Environment :: Web Environment",
     "Framework :: Flask",
