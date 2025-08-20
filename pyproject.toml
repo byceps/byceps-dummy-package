@@ -1,6 +1,6 @@
 [project]
 name = "BYCEPS"
-version = "0.0.3.dev"
+version = "0.0.3"
 description = "LAN party web platform"
 readme = "README.md"
 authors = [
